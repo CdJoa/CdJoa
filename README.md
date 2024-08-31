@@ -8,9 +8,7 @@
 <span style="margin-right: 15px;">
 	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </span>
-<span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-</span>
+
 
 #### Web Technologies:
 <span style="margin-right: 15px;">
